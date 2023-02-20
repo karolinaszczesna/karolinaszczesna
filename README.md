@@ -1,4 +1,4 @@
-### Karolina Szczęsna
+# Karolina Szczęsna
 
 ## About me
 
