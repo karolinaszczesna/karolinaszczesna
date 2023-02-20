@@ -6,15 +6,15 @@ Data Scientist and Business Analyst at the beginning of the IT journey with an e
 
 ## My projects
 
-:small_orange_diamond: Machine Learning
-** Supervised Learning
-** Unsupervised Learning
-:small_orange_diamond: Data Visualisation
-:small_orange_diamond: Text Mining
-** Text Categorization
-:small_orange_diamond: Econometrics
-:small_orange_diamond: Webscraping
-** E-commerce shoes prices scraping
++ Machine Learning
+++ Supervised Learning
+++ Unsupervised Learning
++ Data Visualisation
++ Text Mining
+++ Text Categorization
++ Econometrics
++ Webscraping
+++ E-commerce shoes prices scraping
 
 <!--
 **karolinaszczesna/karolinaszczesna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
