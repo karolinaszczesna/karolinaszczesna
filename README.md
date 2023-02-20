@@ -10,11 +10,12 @@ Data Scientist and Business Analyst at the beginning of the IT journey with an e
    - Supervised Learning
    - Unsupervised Learning
 + Data Visualisation
+   - [HR data visualisation](https://github.com/karolinaszczesna/hr-data-visualisation)
 + Text Mining
-  - Text Categorization
+  - [IMDB reviews text categorization](https://github.com/karolinaszczesna/IMDB-reviews-text-categorization)
 + Econometrics
 + Webscraping
-  - E-commerce shoes prices scraping
+  - [E-commerce shoes prices scraping](https://github.com/tjstarak/DSBA-webscraping)
 
 <!--
 **karolinaszczesna/karolinaszczesna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
